@@ -36,8 +36,8 @@
                 <ul class="navbar-nav text-uppercase ms-auto py-4 py-lg-0">
                     <li class="nav-item"><a class="nav-link" href="">Beranda</a></li>
                     <li class="nav-item"><a class="nav-link" href="#sejarah">Sejarah</a></li>
-                    <li class="nav-item"><a class="nav-link" href="#peta">Peta</a></li>
                     <li class="nav-item"><a class="nav-link" href="#Kota">Pilihan Kota</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#peta">Peta</a></li>
                 </ul>
             </div>
         </div>
