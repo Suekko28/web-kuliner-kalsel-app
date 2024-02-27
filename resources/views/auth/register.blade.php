@@ -104,7 +104,7 @@
                   <input type="text" class="form-control" id="email" name="email" placeholder="Masukan email" value="{{ Session::get('email') }}" />
                 </div>
                 <div class="mb-3 form-password-toggle">
-                  <label class="form-label" for="password">Password</label>
+                  <label class="form-label" for="password">Kata Sandi</label>
                   <div class="input-group input-group-merge">
                     <input
                       type="password"
