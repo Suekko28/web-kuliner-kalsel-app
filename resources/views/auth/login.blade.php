@@ -103,7 +103,7 @@
                 </div>
                 <div class="mb-3 form-password-toggle">
                   <div class="d-flex justify-content-between">
-                    <label class="form-label" for="password">Password</label>
+                    <label class="form-label" for="password">Kata Sandi</label>
                     </a>
                   </div>
                   <div class="input-group input-group-merge">
