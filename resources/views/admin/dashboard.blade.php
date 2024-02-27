@@ -7,7 +7,7 @@
             @include('layouts.message')
             <!-- Responsive Table -->
             <div class="card">
-                <h5 class="card-header">Artikel</h5>
+                <h5 class="card-header">Daftar Menu</h5>
                 <div class="table-responsive">
                     <table class="table table-bordered vw-100">
                         <thead>
