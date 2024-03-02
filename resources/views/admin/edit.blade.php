@@ -50,21 +50,21 @@
                         <div class="form-group mb-3">
                             <label for="judul_artikel">Nama Menu</label>
                             <input type="text" class="form-control" id="judul_artikel" name="judul_artikel"
-                                placeholder="Masukkan Judul Artikel" value="{{$data->judul_artikel}}">
+                                placeholder="Masukan Nama Menu" value="{{$data->judul_artikel}}">
                         </div>
                         <div class="form-group mb-3">
                             <label for="Konten">Deskripsi Menu</label>
-                            <textarea rows="20" class="form-control" id="isi_artikel" name="isi_artikel" placeholder="Masukkan Isi Materi"></textarea>
+                            <textarea rows="20" class="form-control" id="isi_artikel" name="isi_artikel" placeholder="masukan Isi Materi"></textarea>
                         </div>
                         <div class="form-group mb-3">
                             <label for="nama_resto">Nama Resto</label>
                             <input type="text" class="form-control" id="nama_resto" name="nama_resto"
-                                placeholder="Masukkan Nama Resto" value="{{$data->nama_resto}}">
+                                placeholder="Masukan Nama Resto" value="{{$data->nama_resto}}">
                         </div>
                         <div class="form-group mb-3">
                             <label for="link">Link</label>
                             <input type="text" class="form-control" id="link" name="link"
-                                placeholder="Masukkan Link Resto" value="{{$data->link}}">
+                                placeholder="masukan Link Resto" value="{{$data->link}}">
                         </div>
                         <div class="form-group mb-3">
                             <label for="status">Kota</label>
