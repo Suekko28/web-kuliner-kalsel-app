@@ -46,7 +46,7 @@
     <!-- Portfolio Grid-->
     <section class="page-section bg-light mt-5" id="portfolio">
         <div class="container">
-            <div class="text-center">
+            <div class="text-center pt-5">
                 <h2 class="section-heading text-uppercase mt-5">Menu</h2>
                 <h3 class="section-subheading text-muted">Makanan Khas Kalimantan Selatan di daerah Kalimantan Selatan</h3>
             </div>
